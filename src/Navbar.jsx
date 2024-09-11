@@ -56,7 +56,7 @@ function Navbar() {
           <a className="btn btn-ghost text-xl">Registration</a>
         </div>
         <div className="navbar-center">
-          <a className="btn btn-ghost text-xl">Admin Logon</a>
+          <a className="btn btn-ghost text-xl">Admin Login</a>
         </div>
         <div className="navbar-center">
           <a className="btn btn-ghost text-xl">Employee Login</a>
