@@ -11,7 +11,7 @@ function Hero() {
       >
         <div className="hero-overlay bg-opacity-75"></div>
         <div className="hero-content text-neutral-content text-center">
-          <div className="max-w-md">
+          <div className="max-w-3xl">
             <h1 className="mb-5 text-2xl font-bold">
               We Build Stable Software Product
             </h1>
