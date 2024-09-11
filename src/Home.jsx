@@ -1,8 +1,9 @@
+import Card from "./Card"
 
 function Home() {
   return (
     <div>
-      <h1 className="font-bold">This is home page</h1>
+      <Card />
     </div>
   )
 }
