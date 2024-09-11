@@ -5,7 +5,7 @@ import { RxDropdownMenu } from 'react-icons/rx';
 function Navbar() {
   return (
     <div>
-      <div className="navbar bg-base-100">
+      <div className="navbar bg-zinc-400">
         <div className="navbar-start">
           <div className="dropdown">
             <div
